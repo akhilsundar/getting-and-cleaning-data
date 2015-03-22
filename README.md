@@ -25,6 +25,8 @@ The only script in this repo is run_analysis.R. This script organizes the data i
 
 6. Creates a text file with the tidy data
 
+The script was made with knowledge from the Coursera Course and other online resources such as stackoverflow for tips and solutions to various issues.
+
 ##Output
 The output can be found in this repo. The file is TidyData.txt
 
